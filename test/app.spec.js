@@ -4,7 +4,7 @@
 * Copyright: 2023, Molnár Csenge Anna
 * Group: Szoft I-1 N
 * Date: 2023-05-18
-* Github: 
+* Github: https://github.com/Verfarkas02/s1n_Dolgozat_3_tehengfeljs
 * Licenc: GNU GPL
 */
 describe("Henger felszíne", () => {
